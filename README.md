@@ -1,5 +1,3 @@
-theme: jekyll-theme-architect
-
 # **VillagersRevenge**
 My College School Project and first Game I created from scratch using the Unity game engine and Blender for the models. This game invovles basic random level generation using different room templates, which the loading system will randomly select one these templates and place the rooms entry point onto an exit point which each room template has.
 
