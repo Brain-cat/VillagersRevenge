@@ -3,11 +3,9 @@
 My College School Project and first Game I created from scratch using the Unity game engine and Blender for the models. This game invovles basic random level generation using different room templates, which the loading system will randomly select one these templates and place the rooms entry point onto an exit point which each room template has.
 
 
-[Devlopment blog](https://kirksprojectblog.blogspot.com/)
+[**Devlopment blog**](https://kirksprojectblog.blogspot.com/)
 
-<br>
-
-[Archived version](https://drive.google.com/file/d/1Se9FWl4aknxot7qu1UVRCPAqYxdo5_OL/edit)
+[**Archived version**](https://drive.google.com/file/d/1Se9FWl4aknxot7qu1UVRCPAqYxdo5_OL/edit)
 
 
 
@@ -15,7 +13,7 @@ My College School Project and first Game I created from scratch using the Unity 
 
 <h3>Download</h3>
 
-[Download the latest zip and run "Villagers Revenge.exe"](https://github.com/Brain-cat/VillagersRevenge/releases/latest)
+[**Download the latest zip and run "Villagers Revenge.exe"**](https://github.com/Brain-cat/VillagersRevenge/releases/latest)
 
 
 <h3>Movement</h3>
