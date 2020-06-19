@@ -1,12 +1,23 @@
 # **VillagersRevenge**
+
 My College School Project and first Game I created from scratch using the Unity game engine and Blender for the models. This game invovles basic random level generation using different room templates, which the loading system will randomly select one these templates and place the rooms entry point onto an exit point which each room template has.
+
+
+<a href=https://kirksprojectblog.blogspot.com/>
+Devlopment blog
+</a>
+<br>
+<a href=https://drive.google.com/file/d/1Se9FWl4aknxot7qu1UVRCPAqYxdo5_OL/edit>
+Archived version
+</a>
+
 
 # **How to play**
 
 <h3>Download</h3>
-<p class="padded">
-First you go to the release page on my github and download the most recent version of the Villagers Revenge, extract the files in the zip file anywhere on your computer, open the folder called "Built Game" and run "Villagers Revenge.exe". You will then be greeted with the Unity Configuration screen where you can change any settings that you wish to change such as graphics or inputs.
-</p>
+<a href=https://github.com/Brain-cat/VillagersRevenge/releases/latest>
+Download the latest zip and run "Villagers Revenge.exe"
+</a>
 
 <h3>Movement</h3>
 <p class="padded">
