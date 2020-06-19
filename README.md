@@ -10,7 +10,7 @@ First you go to the release page on my github and download the most recent versi
 
 <h3>Movement</h3>
 <p class="padded">
-The defult movement keys are 'W A S D' or the arrow keys to move your character. 'W' moves the character up and 'A' moves the           character right and so on.
+The defult movement keys are 'W A S D' or the arrow keys to move your character. 'W' moves the character up and 'A' moves the           character left and so on.
 </p>
 
 <h3>Inventory</h3>
